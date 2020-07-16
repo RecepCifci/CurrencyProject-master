@@ -1,0 +1,8 @@
+2020-07-15 01:12:50,686 [6] INFO Controller - Action Method currency executing at 15.07.2020 Action Arguments Key=baseValue, Values=asdasdasdasdasdasdasd / Key=date, Values=asdasdsadasdasdasd
+2020-07-15 01:12:51,120 [6] INFO Controller - Action Method currency executed at 15.07.2020 01:12:51
+2020-07-15 01:12:59,791 [6] INFO Controller - Action Method currency executing at 15.07.2020 Action Arguments Key=baseValue, Values=asdasdasdasdasdasdasd / Key=date, Values=asdasdsadasdasdasd
+2020-07-15 01:14:07,921 [6] INFO Controller - Action Method currency executing at 15.07.2020 Action Arguments Key=baseValue, Values=asdasdas / Key=date, Values=dasdasd
+2020-07-15 01:14:13,005 [6] INFO Controller - Action Method currency executed at 15.07.2020 01:14:13
+2020-07-15 01:15:29,993 [6] INFO Controller - Action Method currency executing at 15.07.2020 Action Arguments Key=baseValue, Values=asdasdasdasdasd / Key=date, Values=asdasdasd
+2020-07-15 23:32:32,170 [5] INFO Controller - Action Method currency executing at 15.07.2020 Action Arguments Key=baseValue, Values= / Key=date, Values=
+2020-07-15 23:32:33,369 [5] INFO Controller - Action Method currency executed at 15.07.2020 23:32:33

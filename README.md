@@ -14,3 +14,9 @@ This WEb API finds and gets currency info by dates. This Web API gets 2 paramete
 
 ## Limitations
 currency and date has a default value. That's why API works whether parameters are empty or not
+
+## Technologies
+- WEB API --> .Net 4.7.2
+- Logging --> log4net
+- Currency Rates --> http://www.floatrates.com
+- Testing --> .Net Unit Test
